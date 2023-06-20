@@ -1,0 +1,6 @@
+OAuth Claims validation
+https://learn.microsoft.com/en-us/azure/active-directory/develop/claims-validation
+
+Using email claims for identification or authorization.
+https://learn.microsoft.com/en-us/azure/active-directory/develop/migrate-off-email-claim-authorization
+
